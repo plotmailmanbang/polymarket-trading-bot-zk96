@@ -1,4 +1,4 @@
-# 
+# smart Polymarket bot | leverage-trading + automated-trade-execution offers the most advanced Polymarket bot, with leverage-trading and automated-trade-execution. Ideal for
 
 
 
